@@ -1,0 +1,3 @@
+pushd ~/carrot/carrot-app/NetCoreApp/NetCoreAppDb/
+./setup-db.sh
+popd

@@ -1,0 +1,4 @@
+pkill dotnet
+pushd ~/carrot/carrot-app/NetCoreApp/NetCoreApp
+dotnet run
+popd

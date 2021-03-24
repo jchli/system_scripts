@@ -1,0 +1,3 @@
+pushd ~/carrot/carrot-app/react-app
+npm run start
+popd

@@ -1,0 +1,1 @@
+mssql -u sa -p reallyStrongPwd123 -d CarrotDB
